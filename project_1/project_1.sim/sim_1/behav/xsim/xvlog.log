@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/USER.LC/project_1/project_1.srcs/sources_1/new/and_gate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module and_gate
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/USER.LC/project_1/project_1.srcs/sources_1/new/nandGate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module nandGate
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/USER.LC/project_1/project_1.srcs/sources_1/new/newNorGate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module newNorGate
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/USER.LC/project_1/project_1.srcs/sources_1/new/orGate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module or_gate
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/USER.LC/project_1/project_1.srcs/sources_1/new/xnorGate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module xnorGate
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/USER.LC/project_1/project_1.srcs/sources_1/new/xorGate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module xorGate
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/USER.LC/project_1/project_1.srcs/sim_1/new/trial.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module trial

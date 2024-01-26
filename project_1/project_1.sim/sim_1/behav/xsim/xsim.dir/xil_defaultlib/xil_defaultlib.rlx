@@ -1,0 +1,13 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/USER.LC/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/USER.LC/project_1/project_1.srcs/sim_1/new/trial.v,1706240978,verilog,,,,trial,,,,,,,,
+C:/Users/USER.LC/project_1/project_1.srcs/sources_1/new/and_gate.v,1706236218,verilog,,C:/Users/USER.LC/project_1/project_1.srcs/sources_1/new/nandGate.v,,and_gate,,,,,,,,
+C:/Users/USER.LC/project_1/project_1.srcs/sources_1/new/nandGate.v,1706238101,verilog,,C:/Users/USER.LC/project_1/project_1.srcs/sources_1/new/newNorGate.v,,nandGate,,,,,,,,
+C:/Users/USER.LC/project_1/project_1.srcs/sources_1/new/newNorGate.v,1706240322,verilog,,C:/Users/USER.LC/project_1/project_1.srcs/sources_1/new/orGate.v,,newNorGate,,,,,,,,
+C:/Users/USER.LC/project_1/project_1.srcs/sources_1/new/norGate.v,1706240006,verilog,,C:/Users/USER.LC/project_1/project_1.srcs/sources_1/new/orGate.v,,norGate,,,,,,,,
+C:/Users/USER.LC/project_1/project_1.srcs/sources_1/new/orGate.v,1706238104,verilog,,C:/Users/USER.LC/project_1/project_1.srcs/sources_1/new/xnorGate.v,,or_gate,,,,,,,,
+C:/Users/USER.LC/project_1/project_1.srcs/sources_1/new/xnorGate.v,1706241213,verilog,,C:/Users/USER.LC/project_1/project_1.srcs/sources_1/new/xorGate.v,,xnorGate,,,,,,,,
+C:/Users/USER.LC/project_1/project_1.srcs/sources_1/new/xorGate.v,1706240823,verilog,,C:/Users/USER.LC/project_1/project_1.srcs/sim_1/new/trial.v,,xorGate,,,,,,,,
